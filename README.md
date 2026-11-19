@@ -1,3 +1,24 @@
+# Rascunho da ficha Google Play — AÍ BOOK
+
+**Nome:** AÍ BOOK — Estudo e Aprendizagem
+
+**Descrição curta:** Organiza os teus estudos por classe e disciplina.
+
+**Descrição longa (adequada ao estado atual):**
+
+O AÍ BOOK é uma aplicação educativa em desenvolvimento, pensada para ajudar estudantes a organizar os seus estudos por classe e disciplina.
+
+Nesta versão de demonstração podes conhecer a navegação, selecionar uma classe, explorar a lista de disciplinas e consultar a área de demonstração de exercícios.
+
+**Limitações desta versão:** os livros ainda não estão incluídos; a resolução por inteligência artificial, leitura de fotografias, criação de contas e sincronização de progresso ainda não estão disponíveis. As recompensas de dados móveis também não estão ativas.
+
+A descrição só deve ser publicada depois de o produto real corresponder ao que é anunciado e de todos os requisitos da Google Play serem verificados.
+
+## Materiais gráficos ainda necessários
+- Ícone de aplicação em alta resolução conforme especificação atual da Play Console.
+- Capturas de ecrã reais da aplicação em dispositivos suportados.
+- Imagem promocional, se aplicável.
+- Classificação etária e formulário de segurança de dados preenchidos com informação verdadeira.
 [ ]
 Criar projeto Flutter completo com diretório android/ e pubspec.yaml.
 [ ]
